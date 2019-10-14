@@ -1,2 +1,2 @@
 # Disciplina_Linguagens_de-Programacao
-Codigos refenentes a disciplina de linguagens de programaçao 2019.2 o curso de ciencias da computaçao da UFC campus quixada
+Codigos referentes a disciplina de linguagens de programaçao 2019.2 do curso de ciencias da computaçao da UFC campus quixada
